@@ -4,11 +4,11 @@ img{
     width: 120px;
     height: 120px;
 }
-#a{
+.a{
     position: absolute;
     right: 35%;
 }
-#b{
+.b{
     position: relative;
     top: 150px;
     left: 0px;
